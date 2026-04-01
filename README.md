@@ -52,6 +52,7 @@ Follow the steps below to set up the project locally:
 Step 1: Clone the Repository
 git clone https://github.com/krish693/face-recognition-system.git
 cd face-recognition-system
+
 Step 2: Create Virtual Environment (Optional but Recommended)
 python -m venv venv
 
@@ -64,6 +65,7 @@ Mac/Linux:
 source venv/bin/activate
 Step 3: Install Dependencies
 pip install -r requirements.txt
+
 ▶️ Usage Instructions
 📸 Step 1: Create Dataset
 
