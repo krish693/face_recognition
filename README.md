@@ -30,6 +30,7 @@ face_recognition / dlib – for encoding and recognition
 Tkinter (optional) – for graphical user interface
 
 📂 Project Structure
+```
 face-recognition-system/
 │
 ├── dataset/                  # Stores captured face images
@@ -42,6 +43,7 @@ face-recognition-system/
 ├── main.py                   # Main entry point (optional)
 ├── requirements.txt          # Project dependencies
 ├── README.md                 # Project documentation
+```
 
 
 ⚙️ Installation Guide
