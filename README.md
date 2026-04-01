@@ -28,6 +28,7 @@ OpenCV – for image processing and face detection
 NumPy – for numerical computations
 face_recognition / dlib – for encoding and recognition
 Tkinter (optional) – for graphical user interface
+
 📂 Project Structure
 face-recognition-system/
 │
@@ -41,8 +42,9 @@ face-recognition-system/
 ├── main.py                   # Main entry point (optional)
 ├── requirements.txt          # Project dependencies
 ├── README.md                 # Project documentation
-⚙️ Installation Guide
 
+
+⚙️ Installation Guide
 Follow the steps below to set up the project locally:
 
 Step 1: Clone the Repository
@@ -50,6 +52,7 @@ git clone https://github.com/your-username/face-recognition-system.git
 cd face-recognition-system
 Step 2: Create Virtual Environment (Optional but Recommended)
 python -m venv venv
+
 
 Activate the environment:
 
@@ -62,6 +65,7 @@ pip install -r requirements.txt
 ▶️ Usage Instructions
 📸 Step 1: Create Dataset
 
+
 Run the dataset creator script to capture images:
 
 python dataset_creator.py
@@ -69,6 +73,7 @@ Enter user ID or name
 The system will capture multiple face samples
 Images will be stored in the dataset/ folder
 🧠 Step 2: Train the Model
+
 
 Train the system using captured images:
 
@@ -111,35 +116,35 @@ This system can be used in various domains:
 🏢 Office Entry Management
 🛡️ Surveillance Systems
 📱 Smart Devices and Apps
+
 ⚠️ Limitations
 Performance depends on lighting conditions
 Accuracy depends on quality and quantity of dataset
 May struggle with face masks or occlusions
 Requires a good camera for better results
+
 🔮 Future Enhancements
 Integration with databases (MySQL, Firebase)
 Web-based interface using Flask/Django
 Mobile app integration
 Mask detection and emotion recognition
 Multi-face tracking and analytics
-🤝 Contributing
 
+
+🤝 Contributing
 Contributions are welcome!
 
 Fork the repository
 Create a new branch
 Make your changes
 Submit a pull request
-📜 License
 
+
+📜 License
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-Your Name
-GitHub: https://github.com/your-username
+**Krish Rauniyar**  
+Computer Science Student | Developer 
+GitHub: https://github.com/krish693
 
-If you want, I can also:
-
-🔥 Make it resume/project report ready
-🎓 Convert it into a college project documentation (PDF)
-💻 Customize for your Java GUI + database version
