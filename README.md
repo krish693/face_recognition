@@ -48,7 +48,7 @@ face-recognition-system/
 Follow the steps below to set up the project locally:
 
 Step 1: Clone the Repository
-git clone https://github.com/your-username/face-recognition-system.git
+git clone https://github.com/krish693/face-recognition-system.git
 cd face-recognition-system
 Step 2: Create Virtual Environment (Optional but Recommended)
 python -m venv venv
